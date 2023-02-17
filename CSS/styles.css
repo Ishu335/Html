@@ -1,10 +1,17 @@
 
 body {
-    background-color: black;
+    background-color: gray;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 300%;
   }
   h {
     color: blue;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   }
   p {
     color: red;
+    border: 500px;
+    padding: 4px;
+    margin: 5px;
+    border-color:yellowgreen ;
   }
